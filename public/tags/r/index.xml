@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Blogito, ergo sum.</title>
+    <link>https://www.sebastiansemper.de/tags/r/</link>
+    <description>Recent content in R on Blogito, ergo sum.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 May 2016 16:36:19 +0200</lastBuildDate>
+    <atom:link href="https://www.sebastiansemper.de/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unabhängigkeit</title>
+      <link>https://www.sebastiansemper.de/code/unabh/</link>
+      <pubDate>Sun, 08 May 2016 16:36:19 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/unabh/</guid>
+      <description>&lt;p&gt;Das Problem die Unabhängigkeitszahl eines Graphen zu bestimmen ist wahrscheinlich nicht in polynomieller Zeit lösbar, weshalb es legitim ist, über approximative Lösungen nachzudenken. Dies wurde hier in R mittels Optimierung in einem simplex via Montecarlo-Sampling durchgeführt und hieraus eine unabhängige Menge konstruiert.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

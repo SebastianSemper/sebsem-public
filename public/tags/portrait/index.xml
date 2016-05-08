@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portrait on Blogito, ergo sum.</title>
+    <link>https://www.sebastiansemper.de/tags/portrait/</link>
+    <description>Recent content in Portrait on Blogito, ergo sum.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 May 2016 16:01:11 +0200</lastBuildDate>
+    <atom:link href="https://www.sebastiansemper.de/tags/portrait/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>kuh</title>
+      <link>https://www.sebastiansemper.de/foto/kuh/</link>
+      <pubDate>Sun, 08 May 2016 16:01:11 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/foto/kuh/</guid>
+      <description>&lt;p&gt;Auf dem Rennsteig gab es eine ganze Herde, auf die wir des Weges nach Siegmundsburg stießen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

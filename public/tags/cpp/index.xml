@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp on Blogito, ergo sum.</title>
+    <link>https://www.sebastiansemper.de/tags/cpp/</link>
+    <description>Recent content in Cpp on Blogito, ergo sum.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 May 2016 16:38:26 +0200</lastBuildDate>
+    <atom:link href="https://www.sebastiansemper.de/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Maximum Adjacency Orderings</title>
+      <link>https://www.sebastiansemper.de/code/maos/</link>
+      <pubDate>Sun, 08 May 2016 16:38:26 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/maos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Das Buddhabrot</title>
+      <link>https://www.sebastiansemper.de/code/buddhabrot/</link>
+      <pubDate>Sun, 08 May 2016 11:02:15 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/buddhabrot/</guid>
+      <description>&lt;p&gt;Das Buddhabrot ist stark verwandt mit der Bandelbrotmenge und zeigt den Verlauf aller &amp;ldquo;spät&amp;rdquo; divergierenden Trajektorien. Es stellt also eine Art Dichte der Aufenthaltswahrscheinlichkeit von Trajektorien dar, deren Startpunkte sich &amp;ldquo;nahe am Rand&amp;rdquo; der Mandelbrotmenge befinden.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

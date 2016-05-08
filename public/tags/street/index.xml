@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street on Blogito, ergo sum.</title>
+    <link>https://www.sebastiansemper.de/tags/street/</link>
+    <description>Recent content in Street on Blogito, ergo sum.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 May 2016 15:16:50 +0200</lastBuildDate>
+    <atom:link href="https://www.sebastiansemper.de/tags/street/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frankfurter Bahnhof</title>
+      <link>https://www.sebastiansemper.de/foto/ffm_bahnhof/</link>
+      <pubDate>Sun, 08 May 2016 15:16:50 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/foto/ffm_bahnhof/</guid>
+      <description>&lt;p&gt;Eine Langzeitbelichtung, die auf einem der vielen Stehtische an den Imbissbuden dort aufgenommen wurde.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogito, ergo sum.</title>
+    <link>https://www.sebastiansemper.de/</link>
+    <description>Recent content on Blogito, ergo sum.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 May 2016 16:38:26 +0200</lastBuildDate>
+    <atom:link href="https://www.sebastiansemper.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Maximum Adjacency Orderings</title>
+      <link>https://www.sebastiansemper.de/code/maos/</link>
+      <pubDate>Sun, 08 May 2016 16:38:26 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/maos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unabhängigkeit</title>
+      <link>https://www.sebastiansemper.de/code/unabh/</link>
+      <pubDate>Sun, 08 May 2016 16:36:19 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/unabh/</guid>
+      <description>&lt;p&gt;Das Problem die Unabhängigkeitszahl eines Graphen zu bestimmen ist wahrscheinlich nicht in polynomieller Zeit lösbar, weshalb es legitim ist, über approximative Lösungen nachzudenken. Dies wurde hier in R mittels Optimierung in einem simplex via Montecarlo-Sampling durchgeführt und hieraus eine unabhängige Menge konstruiert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traceit</title>
+      <link>https://www.sebastiansemper.de/code/traceit/</link>
+      <pubDate>Sun, 08 May 2016 16:28:35 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/traceit/</guid>
+      <description>&lt;p&gt;Ein alter und sehr naiv programmierter Raytracer, der im Zuge meiner Facharbeit über Raytracing entstanden ist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>kuh</title>
+      <link>https://www.sebastiansemper.de/foto/kuh/</link>
+      <pubDate>Sun, 08 May 2016 16:01:11 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/foto/kuh/</guid>
+      <description>&lt;p&gt;Auf dem Rennsteig gab es eine ganze Herde, auf die wir des Weges nach Siegmundsburg stießen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frankfurter Bahnhof</title>
+      <link>https://www.sebastiansemper.de/foto/ffm_bahnhof/</link>
+      <pubDate>Sun, 08 May 2016 15:16:50 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/foto/ffm_bahnhof/</guid>
+      <description>&lt;p&gt;Eine Langzeitbelichtung, die auf einem der vielen Stehtische an den Imbissbuden dort aufgenommen wurde.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hin zur Mutter Natur</title>
+      <link>https://www.sebastiansemper.de/post/hin_zu_mutter_natur/</link>
+      <pubDate>Sun, 08 May 2016 14:50:00 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/post/hin_zu_mutter_natur/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nature is Satans church.&amp;rdquo; ist eine der zentralen Zeilen im sehr grandiosen aber mindestens genauso verstörenden Meisterwerk &amp;ldquo;Antichrist&amp;rdquo; von Regisseur Lars von Trier. Was macht den Satz so besonders? Die Natur ist also der Raum, welcher dem abtrünnigsten aller Erzengel Tribut zollen soll. Natur ist das Gegenteil der vergeistigten Heiligkeit, welche das Ziel aller Menschen zu sein scheint. Die Aussage reißt Gott und damit den Menschen aus der Natur heraus und stellt ihn ihr diametral gegenüber.&lt;/p&gt;
+
+&lt;p&gt;Der Mensch hat sich vielleicht schon immer als bloßen Beobachter oder Nebendarsteller im Walten der Natur gesehen. Wahrscheinlich ist es auf recht früh bereits aufkommende Möglichkeiten, den Gesetzmäßigkeiten der Natur, die für alle anderen Lebewesen zu gelten scheinen, ein Schnippchen zu schlagen. Der Mensch nimmt sich somit selbst als weiterer Akteur neben der Natur, in vielen Fällen sogar als deren Gegenspieler wahr.&lt;/p&gt;
+
+&lt;p&gt;Mit der Verbreitung des Christentums hat diese Verklärung der Beziehung zwischen Mensch und Natur noch zugenommen. Menschliches Streben richtet sich nicht mehr auf das Irdische sondern das Himmlische. Natürliche Vorgänge und Triebe werden der Sünde zugeschrieben – werden verteufelt. Mit Einsetzen der Aufklärung rückt sich der Mensch entgültig als nur dem Verstand verpflichtet ins eigene rechte Licht. Kant sucht zwar durch seine Kritik der reinen Vernunft dem Menschen enge Grenzen bei der Möglichkeit der Erkenntnis zu setzen, doch bald darauf eintretende Fortschritte in Wissenschaft und Technik beflügeln den humanen Übermut und die letzten Banden mit der Natur scheinen dem Zertrennen nahe.&lt;/p&gt;
+
+&lt;p&gt;Und jetzt stehen wir im Hier und Jetzt. Nein, zumeist sitzen wir. Ein Drittel der Lebenszeit liegen wir herum und die restlichen zwei Drittel verbringen wir zumeist im Sitzen am Frühstückstisch, in der Bahn, im Auto, am Arbeitsplatz, am Mittagstisch, am Arbeitsplatz, im Kaffeehaus, zum Abendbrot, vor dem Fernseher und vor dem Computer. Unsere Haltung im Alltag wird bestimmt von Letargie, krummer Haltung und wegen Degeneration verspannten Muskeln.&lt;/p&gt;
+
+&lt;p&gt;Wir nehmen Nahrung zu uns, die selten noch etwas unverändertes, unbereinigtes oder geschmacklich nicht aufgewertetes an sich hat. Wir benutzen unsere Verdauung kaum noch für die von der Evolution für uns vorgesehenen Nachrungsmittel.&lt;/p&gt;
+
+&lt;p&gt;Unsere Arbeitszeiten sind in Schichten, gleitende Zeiten und Wochentage eingeteilt, die nichts mit unserem Biorhythmus zu tun haben. Kein Arbeitsumfeld berücksichtigt den täglich und saisonal schwankenden Hormonhaushalt der Menschen, die nicht von Weckern und Terminkalendern, sondern von dem Sonnenstand, der Tageslänge und den Temperaturen abhängig sind.&lt;/p&gt;
+
+&lt;p&gt;Auch menschliches Zusammenleben in der Familie wird bestimmt durch Kindergärten ab dem ersten Lebensjahr, Internaten, pendelnden Elternteilen, die nur am Wochenende ihre Kinder sehen und Großeltern im Altenheim. Die innigste und kleinste Einheit des Miteinanders wird zersetzt und aufgelöst zum Nutzen der Effizienz.&lt;/p&gt;
+
+&lt;p&gt;Bewegungen, für die der Mensch geschaffen wurde, wie Gehen, Laufen, Sprinten und Klettern verursachen bei uns Muskelkater, Verletzungen und Gelenkprobleme. Wir haben durch unsere eigene Vergeistigung die Beziehung zu unserem eigenen Körper vollkommen entfremdet. Wir wissen kaum noch, wie wir einen Purzelbaum oder einen weiten Sprung machen können, aber Akten einsortieren und Meetings halten, haben wir zu unserer profiliertesten Profession gemacht.&lt;/p&gt;
+
+&lt;p&gt;Wir haben es geschafft. Die Entfremdung von uns selbst ist eingetreten. Der Mensch lebt ein Leben, dessen er nicht mächtig sein kann, weil er nicht das nötige Rüstzeug dafür besitzt. zu groß ist unser Bedürfnis nach natürlicher Nahrung, gesunder Bewegung und innigem Zusammenhalt in der Familie. Wir haben uns selbst und durch uns selbst von uns selbst entfremdet. Nicht im Sinne von Marx, doch im Sinne von Satan. Des Teufels Kirche ist die Natur? Doch der Teufel, das sind wir!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Buddhabrot</title>
+      <link>https://www.sebastiansemper.de/code/buddhabrot/</link>
+      <pubDate>Sun, 08 May 2016 11:02:15 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/code/buddhabrot/</guid>
+      <description>&lt;p&gt;Das Buddhabrot ist stark verwandt mit der Bandelbrotmenge und zeigt den Verlauf aller &amp;ldquo;spät&amp;rdquo; divergierenden Trajektorien. Es stellt also eine Art Dichte der Aufenthaltswahrscheinlichkeit von Trajektorien dar, deren Startpunkte sich &amp;ldquo;nahe am Rand&amp;rdquo; der Mandelbrotmenge befinden.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>alles_neu</title>
+      <link>https://www.sebastiansemper.de/post/alles_neu/</link>
+      <pubDate>Sun, 08 May 2016 11:02:03 +0200</pubDate>
+      
+      <guid>https://www.sebastiansemper.de/post/alles_neu/</guid>
+      <description>&lt;p&gt;Hihihihihihihi&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
